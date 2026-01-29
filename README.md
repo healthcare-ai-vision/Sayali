@@ -9,3 +9,7 @@ Week 2 was about understanding how neural networks work and how they learn from 
 Week 3: CNNs, Darknet, and YOLO
 
 Week 3 focused on moving from basic neural networks to advanced CNN architectures used in real computer vision applications. Darknet and ImageNet were explored to understand how large datasets and efficient frameworks helped build modern vision models. YOLO and the Ultralytics ecosystem were introduced for real-time object detection, along with hands-on work such as exploring datasets on Roboflow and training a classification model.
+
+Week 4: TILs and TIGER Grand Challenge
+
+Week 4 covered the TIGER challenge and the use of AI for automated assessment of tumor-infiltrating lymphocytes (TILs) in breast cancer histopathology images. The clinical importance of TILs as prognostic and predictive biomarkers was emphasized, especially in HER2-positive and Triple Negative breast cancers. Key tasks included immune cell detection, tissue segmentation, and automated TIL scoring. This week demonstrated the practical application of computer vision and deep learning in medical diagnosis.
